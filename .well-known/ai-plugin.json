@@ -1,9 +1,9 @@
 {
   "schema_version": "v1",
-  "name_for_model": "home depot product descriptions",
-  "name_for_human": "home depot product descriptions",
-  "description_for_model": "Plugin for searching infomration about Home Depot products. Use it whenever a user ask you about a product from home depot.",
-  "description_for_human": "Plugin for searching infomration about Home Depot products. Use it whenever a user ask you about a product from home depot.",
+  "name_for_model": "home_depot_products",
+  "name_for_human": "home depot products",
+  "description_for_model": "Plugin for searching information about Home Depot products. Use it whenever a user ask you about a product from home depot.",
+  "description_for_human": "Plugin for searching information about Home Depot products.",
   "auth": {
     "type": "user_http",
     "authorization_type": "bearer"
